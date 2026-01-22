@@ -7,7 +7,7 @@ export const defaultConfig: ThemeConfig = {
   site: {
     title: 'IDV.NG 站长日志 ',
     subtitle: 'admin.idv.ng',
-    author: 'peter 船长',
+    author: 'IDV.NG 站长日志',
     description: 'IDV.NG 站长日志',
     website: 'https://astroblog-lovat.vercel.app/',
     pageSize: 5,
