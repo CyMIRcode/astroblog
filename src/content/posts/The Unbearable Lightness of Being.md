@@ -1,6 +1,6 @@
 ---
-title: The Unbearable Lightness of Being
-pubDate: 1984-01-24
+title: 这里是 IDV.NG 数字群岛 的站长日志
+pubDate: 2026-01-22
 categories: ['Articles']
 description: ''
 slug: the-unbearable-lightness-of-being
