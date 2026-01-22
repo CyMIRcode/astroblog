@@ -5,10 +5,10 @@ import type { ThemeConfig } from '~/types'
 
 export const defaultConfig: ThemeConfig = {
   site: {
-    title: 'IDV.NG 站长日志 ',
+    title: 'IDV.NG 航海日志 ',
     subtitle: 'admin.idv.ng',
-    author: 'IDV.NG 站长日志',
-    description: 'IDV.NG 站长日志',
+    author: 'IDV.NG 航海日志',
+    description: 'IDV.NG 航海日志',
     website: 'https://astroblog-lovat.vercel.app/',
     pageSize: 5,
     socialLinks: [
