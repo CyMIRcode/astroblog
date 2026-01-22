@@ -20,7 +20,7 @@ export const defaultConfig: ThemeConfig = {
         name: 'rss',
         href: '/atom.xml',
       },
-      {
+    ], // 这里之前漏掉了结束括号 ]
     navLinks: [
       {
         name: 'Posts',
