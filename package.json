@@ -61,6 +61,14 @@
     "unocss-preset-theme": "^0.14.1",
     "vite-plugin-devtools-json": "^0.3.0"
   },
+  "pnpm": {
+    "onlyBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "simple-git-hooks",
+      "swup"
+    ]
+  },
   "simple-git-hooks": {
     "pre-commit": "pnpm lint-staged"
   },
