@@ -14,7 +14,7 @@ export const defaultConfig: ThemeConfig = {
     socialLinks: [
       {
         name: 'github',
-        href: 'https://github.com/moeyua/astro-theme-typography',
+        href: 'https://astroblog-lovat.vercel.app/',
       },
       {
         name: 'rss',
