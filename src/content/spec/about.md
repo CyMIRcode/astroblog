@@ -1,6 +1,6 @@
 ---
 title: 关于
-pubDate: 2024-12-06
+pubDate: 2026-01-10
 ---
 
 我是 Peter，IDV.NG 的站长。
