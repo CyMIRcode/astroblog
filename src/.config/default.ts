@@ -13,10 +13,6 @@ export const defaultConfig: ThemeConfig = {
     pageSize: 5,
     socialLinks: [
       {
-        name: 'github',
-        href: 'https://astroblog-lovat.vercel.app/',
-      },
-      {
         name: 'rss',
         href: '/atom.xml',
       },
