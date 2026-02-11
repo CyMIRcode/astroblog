@@ -41,7 +41,7 @@ export const defaultConfig: ThemeConfig = {
     ],
     categoryMap: [{ name: '胡适', path: 'hu-shi' }],
     footer: [
-      '© %year <a target="_blank" href="https://idv.ng/">%author</a>' ,
+      '© %year <a target="_blank" href="https://idv.ng/">IDV.NG</a>' ,
     ],
   },
   appearance: {
