@@ -1,5 +1,5 @@
 ---
-title: 雅然丛刊栏目迁移至 HUGO
+title: 雅然丛刊 迁移至 HUGO
 pubDate: 2026-04-15
 categories: ['log']
 description: '升级 Mr.Bard 后，我休息了几天，接着开始给"雅然丛刊"搬家'
